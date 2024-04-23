@@ -5,7 +5,7 @@ City Crew is a comprehensive platform designed to facilitate the booking of home
 ## Process
 
 1. **Installation**: 
-   - Clone the repository: `git clone https://github.com/MahekRohitGor/AWT_Project_City_Crew.git`
+   - Clone the repository: `https://github.com/pujamavadhiya/City-Crew.git`
    - Install dependencies:<br>
    <br>
    
